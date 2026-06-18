@@ -1,0 +1,6 @@
+Transaction_ID,Currency,Amount,Status
+TXN1001,USD,100.0,Completed
+TXN1002,CAD,200.0,Pending
+TXN1003,USD,1500.0,Completed
+TXN1004,CAD,500.0,Pending
+TXN1005,USD,1100.0,Completed
